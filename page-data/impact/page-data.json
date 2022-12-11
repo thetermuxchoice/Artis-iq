@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-impact-js",
+    "path": "/impact/",
+    "result": {"data":{"impactYaml":{"hero":{"tagline":"Sellers add *20% more listings* to their\nshops after signing up for Vela\n","cta":{"label":"Get started","url":"https://app.getvela.com/auth/sign-up"}},"diagram":{"tagline":"New, optimized listings created in Vela\nresult in a *30% revenue increase*\n","columns":{"before":[{"time":"-4 weeks","value":-5.2},{"time":"","value":-7.5},{"time":"-2 weeks","value":-6.8},{"time":"","value":-2.2}],"after":[{"time":"","value":24.5},{"time":"2 weeks","value":25.2},{"time":"","value":27.4},{"time":"4 weeks","value":30.7}]}}}},"pageContext":{}},
+    "staticQueryHashes": ["1780087358","2052439158","2107732150","2526681020","2579815275","2727626753","3843591194","600683391","978645373"]}

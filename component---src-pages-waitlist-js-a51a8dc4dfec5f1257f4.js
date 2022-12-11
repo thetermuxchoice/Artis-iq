@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvela=self.webpackChunkvela||[]).push([[224],{9412:function(e,t,a){a.r(t),a.d(t,{default:function(){return s}});var l=a(7294),n=a(6467),i=a(4701),c=a(9862),r=a(4019);function s(e){var t=e.data.waitlistYaml.tagline,a=!!(0,n.Gc)().lg;return l.createElement("div",{className:(0,r.Oq)("light")},l.createElement(i.h4,{page:"Waitlist"}),l.createElement(c.yk,{desktop:a,tagline:t}))}}}]);
+//# sourceMappingURL=component---src-pages-waitlist-js-a51a8dc4dfec5f1257f4.js.map

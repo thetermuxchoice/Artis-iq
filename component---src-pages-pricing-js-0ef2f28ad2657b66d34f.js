@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvela=self.webpackChunkvela||[]).push([[401],{2609:function(e,a,t){t.r(a),t.d(a,{default:function(){return i}});var n=t(7294),l=t(4701),r=t(9862),c=t(4019);function i(e){var a=e.data.pricingYaml,t=a.plans,i=a.faq;return n.createElement("div",{className:(0,c.Oq)("light")},n.createElement(l.h4,{page:"Pricing"}),n.createElement(r.ou,{plans:t}),n.createElement(r.Z0,{items:i}),n.createElement(r.ri,null))}}}]);
+//# sourceMappingURL=component---src-pages-pricing-js-0ef2f28ad2657b66d34f.js.map
